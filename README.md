@@ -41,9 +41,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
     streamlit run dashboard.py
     ```
     Atau bisa dengan kunjungi website ini [Project Data Analytics](https://dashboard-bike-sharing-kevin-simorangkir.streamlit.app/)
-<<<<<<< HEAD
-=======
+
 
 ## terinsiprasi
 project ini dimodifikasi dan terinspirasi dari [github arini](https://github.com/ariniamsr/bike-sharing/tree/main)
->>>>>>> 289a11fe369ab488a5d7278cd629fd758237a5c6
