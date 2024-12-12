@@ -1,7 +1,8 @@
 # Submission Dicoding "Belajar Analisis Data dengan Python"
 
 ## Preview
-gambar
+![image](https://github.com/user-attachments/assets/6d23adc1-19a5-4865-aa51-a82a35b762a9)
+
 
 ## Project Analisis Data
 
@@ -22,7 +23,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/ariniamsr/bike-sharing.git
+   https://github.com/kevinsimorangkir2001/dashboard-bike-sharing
    ```
 
 2. Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
@@ -39,7 +40,4 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
     cd bike-sharing/dashboard/
     streamlit run dashboard.py
     ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bike-sharing-ariniamsr.streamlit.app/)
-
-## Kontribusi
-Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh.
+    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://dashboard-bike-sharing-kevin-simorangkir.streamlit.app/)
